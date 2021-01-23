@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "713C86F9-F13C-4247-8418-865FE0B3AD21"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbillahReminderApp/ItemListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ItemListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - ddc5b5a049652fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - abab9d615f507ef2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - f2ed52de5d6db7fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - ab0a580c7785c6c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - 52a9e412d71c4a16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; mbillahReminderApp.ItemListViewController"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "AEEFB14E-1473-4004-9204-A6A2399A2F44 - e7d192f6e84199d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbillahReminderApp.ItemListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;mbillahReminderApp.ItemListViewController&gt;"
+                  moduleName = "mbillahReminderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/insaan/Desktop/CSC%20371/My%20SandBox/mbillahReminderApp/mbillahReminderApp/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
