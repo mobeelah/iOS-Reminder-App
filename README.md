@@ -1,5 +1,6 @@
 # iOS-Reminder-App
 the Reminder App allows for reminders to be placed which includes a title, description, and date to remind.
+
 Project Descriptions: The app that was developed will work as a reminder app throughout the day, week, and month. There will be different screens and views, one for creating and/or editing a reminder as well as a screen that shows all the reminders in one screen. As a reminder is created, it will be added to the overall list. 
 
 Screen Designs:
